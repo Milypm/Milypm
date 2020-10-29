@@ -10,4 +10,4 @@
  - :pencil2: Besides coding, I like drawing, reading, and learning about psychology.
 
 
-**Be happy!** :sunflower: :heartbeat:
+**Be happy&code!** :sunflower: :heartbeat:

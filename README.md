@@ -1,8 +1,8 @@
 ### Hi there 👋
-##### Thanks for taking a look on my profile  :smile:
+##### Thanks for taking a look at my profile  :smile:
 <!--
 **Milypm/Milypm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🌱 I’m currently learning HTML/CSS, Ruby and JavaScript.
+- 🌱 I’m currently learning HTML/CSS, Ruby, and JavaScript.
 - 👯 I’m looking to collaborate on projects as a full-stack developer.
 
 ##### About me.-

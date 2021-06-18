@@ -9,8 +9,5 @@
  - :floppy_disk: I love retro (music, fashion...), but also I love new technologies.
  - :pencil2: Besides coding, I like drawing, reading, and learning about psychology.
 
-#### Get in touch
-:mailbox_with_mail: Feel free to send me an email to milypuentem@gmail.com
-
 
 **Be happy&code!** :sunflower: :heartbeat:

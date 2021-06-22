@@ -8,7 +8,7 @@
 
 #### About me
  - :floppy_disk: I love retro (music, fashion...), but also I love new technologies.
- - :pencil2: Besides coding, I like drawing, reading, and learning about psychology.
+ - :pencil2: Besides coding, I like spending time with my dog, music, watching TV, drawing, and reading.
 
 
 **Be happy&code!** :sunflower: :heartbeat:

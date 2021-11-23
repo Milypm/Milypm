@@ -8,8 +8,8 @@
 - :dart: I love to collaborate on projects as a fullstack or frontend developer.
 
 #### About me
- - :floppy_disk: I love retro (music, fashion...), but also I love new technologies.
- - :pencil2: Besides coding, I like working out, spending time with my family/friends, listening music, and reading.
+ - :floppy_disk: I love retro (music, fashion...), but also I love new technologies, and how they help us transforming reality.
+ - :massage: Besides coding, I like working out, spending time with my family/friends, listening music, and reading.
 
 
 **Be happy&code!** :sunflower: :heartbeat:
